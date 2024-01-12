@@ -51,7 +51,7 @@ const projectsData = [
     previewUrl: "/images/projects/netflix.png",
   },
   {
-    id: 5,
+    id: 6,
     title: "Catering Website",
     description: "catering website developed in bootstrap , js",
     image: "/images/projects/catering.png",
@@ -60,13 +60,31 @@ const projectsData = [
     previewUrl: "/images/projects/catering.png",
   },
   {
-    id: 6,
+    id: 7,
     title: "Full-stack Roadmap",
     description: "Project 5 description",
     image: "/images/projects/6.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
+  },
+  {
+    id: 8,
+    title: "Driving Licence",
+    description: "Wordpress project build in Be Builder",
+    image: "/images/projects/driving.png",
+    tag: ["All", "Wordpress"],
+    gitUrl: "https://csmcov.com/",
+    previewUrl: "https://csmcov.com/",
+  },
+  {
+    id: 9,
+    title: "Full-stack Roadmap",
+    description: "Project 5 description",
+    image: "/images/projects/rotendor.png",
+    tag: ["All", "Wordpress"],
+    gitUrl: "https://rotender.com/",
+    previewUrl: "https://rotender.com/",
   },
 ];
 
